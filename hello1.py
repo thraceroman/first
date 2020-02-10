@@ -81,3 +81,6 @@ print("----------完毕---------------")
 #     imagepath = pathimages + "\\" + page1
 #     image = "C:\\Users\\mlb85\\Desktop\\新建文件夹2" +"\\" + str(num) +".jpg"
 #     shutil.copyfile(imagepath,image)
+
+#这里是git的更新内容
+#2020-2-10 18:00 thraceroman
